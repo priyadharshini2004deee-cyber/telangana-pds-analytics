@@ -44,8 +44,6 @@ This project analyzes Fair Price Shops (FPS) in Telangana to identify performanc
 * Scikit-learn
 * Streamlit
 * Plotly
-* Folium
-
 ---
 
 ## 📂 Project Structure
