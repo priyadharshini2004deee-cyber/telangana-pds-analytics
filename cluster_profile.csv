@@ -1,0 +1,5 @@
+cluster_id,noOfRcs,noOfTrans,total_rice,wheat,sugar,rgdal,kerosene,salt,totalAmount,otherShopTransCnt,totalRcs,totalUnits,utilization_ratio,rice_wheat_ratio,portability_ratio,commodity_total,cluster_persona
+0,316.55,317.71,6678.46,3.78,1.51,0.0,0.0,0.01,46.74,61.79,402.84,1288.83,1.12,0.25,0.19,6683.76,High Utilization Shops
+1,1233.04,1239.49,27694.58,3012.5,28.95,0.0,0.0,0.0,21478.43,947.56,1107.41,4016.38,1.14,7.52,0.77,30736.04,Portability Hub
+2,645.75,647.81,13764.91,118.96,6.37,0.0,0.04,0.0,919.1,285.98,718.91,2357.11,0.92,1.75,0.44,13890.27,Low Volume Shops
+3,826.0,826.0,17531.0,2.0,0.0,0.0,0.0,0.0,14.0,703.0,1006.0,3439.0,0.82,8765.5,0.85,17533.0,Portability Hub
